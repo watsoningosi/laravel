@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p>{{ $posts }} </p>
+                <p>{{ $posts->body }} </p>
 
             </div>
         </div>
